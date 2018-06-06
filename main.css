@@ -1,0 +1,29 @@
+#btn-style,
+#submit {
+background:#02C54C;
+color: #FFF;
+border: none;
+padding: 15px;
+border: none;
+}
+
+#btn-style:hover{
+  background-color: #00A63F;
+}
+.values {
+   font-size: 40px; 
+   text-align: center;
+}
+
+.fal {
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+body {
+  width: 300px;
+}
+
+.input-cont{
+  margin:20px;
+}
